@@ -9,15 +9,16 @@ This is an Udacity Data Science Nanodegree project. The aim of the project is to
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Repository Contents](#Repository Contents)
+2. [Repository Contents](#Repository)
 3. [Results](#results)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Dependencies](#Dependencies)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-## Repository Contents
+## Repository
 
 The repository contains the following folders and files:
 
@@ -43,6 +44,6 @@ A summary of the results of the analysis can be found in the Jupyter notebook or
    - datetime
    - calendar
 
-## Licensing, Authors, and Acknowledgements
+## licensing
 
 Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. The licensing for the AirBnB data can be found [here](https://www.kaggle.com/airbnb/seattle/home) on the Kaggle site. I would like to thank the amazing professors, teachers and mentors working with Udacity, who are supporting me on this journey of DSND.
