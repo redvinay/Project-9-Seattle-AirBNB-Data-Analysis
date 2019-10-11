@@ -18,7 +18,7 @@ This is an Udacity Data Science Nanodegree project. The aim of the project is to
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-## Repository
+## Repository Contents<a name="Repository"></a>
 
 The repository contains the following folders and files:
 
@@ -44,6 +44,6 @@ A summary of the results of the analysis can be found in the Jupyter notebook or
    - datetime
    - calendar
 
-## licensing
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. The licensing for the AirBnB data can be found [here](https://www.kaggle.com/airbnb/seattle/home) on the Kaggle site. I would like to thank the amazing professors, teachers and mentors working with Udacity, who are supporting me on this journey of DSND.
