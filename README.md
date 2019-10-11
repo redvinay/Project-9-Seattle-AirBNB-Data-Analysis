@@ -9,10 +9,9 @@ This is an Udacity Data Science Nanodegree project. The aim of the project is to
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Description](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+2. [Repository Contents](#Repository Contents)
+3. [Results](#results)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation
 
